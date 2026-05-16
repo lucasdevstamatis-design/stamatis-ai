@@ -50,7 +50,7 @@ export const TEAM = [
   },
   {
     name: "Haseb Mustafa",
-    role: "Co-Founder & Chief Data Scientist",
+    role: "Lead Machine Learning Engineer",
     detail: "An experienced Machine Learning Engineer with 4+ years of experience building AI driven solutions across deep learning, generative AI, computer vision, NLP, and scalable machine learning systems. He has a Bachelor’s degree in Computer Science.\n\nHis work includes building production-grade AI applications, intelligent automation platforms, 3D medical imaging pipelines, predictive analytics systems and LLM powered solutions using technologies like Pytorch, Tensorflow, FastAPI and cloud infrastructure. His passion lies in applying state-of-the-art AI research to real-world products, focusing on building scalable and impactful AI systems for modern businesses.",
     img: "/Haseb.jpeg"
   },
